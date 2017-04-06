@@ -1,0 +1,9 @@
+Package: com.wizages.shareanywhere
+Name: Share Anywhere
+Depends: mobilesubstrate, libactivator (>= 1.8.3)
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Makes sharing your thoughts and photos easier by providing activator shortcuts to display sharesheets/camera.
+Maintainer: wizages
+Author: wizages
+Section: Tweaks
